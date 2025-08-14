@@ -1,200 +1,92 @@
-# 🚀 Deep Khimani | Code Architect & Digital Innovator
+# Hi there, I'm Deep Khimani! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe!;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning..." alt="Typing SVG" />
-</div>
+## 🚀 About Me
+I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a focus on building intelligent systems that solve real-world problems. I love exploring data, creating predictive models, and developing applications that make complex analytics accessible.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+🔍 **Currently Working On:** RAG-powered systems, computer vision applications, and predictive analytics  
+📍 **Location:** India  
+💡 **Interests:** Machine Learning, Natural Language Processing, Computer Vision, Data Analytics
 
----
+## 🛠️ Tech Stack
 
-## 🎯 About Me
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-```javascript
-const deepKhimani = {
-    name: "Deep Khimani",
-    location: "Earth 🌍",
-    role: "Full Stack Developer",
-    workingOn: "Revolutionary Web Applications",
-    learning: ["AI/ML", "Cloud Architecture", "DevOps"],
-    askMeAbout: ["Web Dev", "Mobile Apps", "System Design"],
-    funFact: "I debug code faster than I debug my life 🐛",
-    motto: "Code it like you mean it! 💪"
-};
-```
+### Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-00D9FF?style=flat-square&logo=google&logoColor=white)
 
-<div align="center">
-  
-### 🔥 Current Status
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=deep-khimani&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### Frameworks & Tools
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</div>
+## 📊 Featured Projects
 
----
+### 🤖 [Mastani.ai - RAG-Powered Historical Chatbot](https://github.com/deep-khimani/Mastani.ai-A-RAG-Powered-System-for-Historical-Inquiry)
+A sophisticated chatbot that explores Pune's rich history using **RAG (Retrieval-Augmented Generation)** with Google's Generative AI and LangChain. Provides accurate historical information by retrieving relevant content from local history documents.
 
-## 🛠️ Tech Arsenal
+**Tech Stack:** Python, LangChain, Google Generative AI, RAG, NLP
 
-<div align="center">
+### 📈 [DataLens - Automated EDA Web App](https://github.com/deep-khimani/DataLens-Automated-EDA-with-Streamlit)
+An intelligent Streamlit application that performs automated **Exploratory Data Analysis**. Simply upload a CSV file and get instant data summaries, statistical insights, and interactive visualizations.
 
-### 🎨 Frontend Magic
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+**Tech Stack:** Python, Streamlit, Pandas, Plotly, Data Visualization
 
-### ⚡ Backend Power
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### 👁️ [Real-Time Human Detection & Pose Estimation](https://github.com/deep-khimani/Real-Time-Human-Detection-Pose-Estimation-with-Entry-Exit-Counting)
+Advanced computer vision system for real-time human detection, tracking, and activity analysis with entry/exit counting capabilities using OpenCV and MediaPipe.
 
-### 🗄️ Database Mastery
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Tech Stack:** Python, OpenCV, MediaPipe, Computer Vision, Real-time Processing
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🚚 [Food Delivery ETA Prediction](https://github.com/deep-khimani/Food-Delivery-ETA-Prediction-Analysis-Visualization-and-Modeling)
+Comprehensive machine learning project predicting food delivery times using real-world data. Includes extensive data cleaning, feature engineering, visualization, and multiple ML models.
 
-</div>
+**Tech Stack:** Python, Machine Learning, Data Analytics, Predictive Modeling
 
----
+### 📰 [Real-Time Fake News Detection](https://github.com/deep-khimani/Real-Time-Fake-News-Detection-with-NLP-and-Ensemble-ML)
+NLP-powered system using ensemble machine learning to detect fake news articles in real-time. Analyzes text patterns and linguistic features for accurate classification.
 
-## 📊 GitHub Analytics
+**Tech Stack:** Python, NLP, Ensemble Methods, Text Classification
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deep-khimani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=20"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-khimani&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-</div>
+### 🎵 [Speech Emotion Recognition](https://github.com/deep-khimani/Comparative-Analysis-of-ML-Algorithms-for-Speech-Emotion-Recognition-Using-MFCC-Features)
+Comparative study of machine learning algorithms for speech emotion recognition using MFCC features. Evaluates performance across SVM, Logistic Regression, and other ML models.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deep-khimani&theme=tokyo-night&hide_border=true&border_radius=20" width="100%"/>
-</div>
+**Tech Stack:** Python, Audio Processing, MFCC, Machine Learning, Classification
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deep-khimani&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 🎵 Coding Soundtrack
+## 📈 GitHub Stats
 
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deep-khimani&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-*Currently vibing to beats while coding* 🎧
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-khimani&layout=compact&theme=radical&hide_border=true)
 
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deep-khimani&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&border_radius=20)](https://github.com/deep-khimani/REPO_NAME_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deep-khimani&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&border_radius=20)](https://github.com/deep-khimani/REPO_NAME_2)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deep-khimani&theme=radical&hide_border=true)
 
 </div>
 
----
+## 🎯 What I'm Currently Learning
+- Advanced RAG implementations and vector databases
+- MLOps and model deployment strategies  
+- Computer vision applications in production
+- Large Language Model fine-tuning techniques
 
-## 🌟 What I'm Up To
+## 🤝 Let's Connect!
+I'm always interested in collaborating on exciting projects, especially in:
+- **Machine Learning & AI Applications**
+- **Data Science & Analytics**
+- **Computer Vision Projects**
+- **NLP & Conversational AI**
 
-```yaml
-current_focus:
-  - 🔭 Working on: "Next-gen web applications with cutting-edge tech"
-  - 🌱 Learning: "Advanced system design and cloud architecture"
-  - 👯 Looking to collaborate on: "Open source projects that make a difference"
-  - 🤔 Need help with: "Scaling applications to millions of users"
-  - 💬 Ask me about: "Full-stack development, system design, or tech trends"
-  - ⚡ Fun fact: "I can solve a Rubik's cube faster than I can explain recursion"
-```
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=deep-khimani&theme=tokyonight&hide_border=true&border_radius=20&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
+Feel free to reach out if you want to discuss technology, collaborate on projects, or just have a chat about data science!
 
 ---
+⭐ **"Turning data into insights, one algorithm at a time"** ⭐
 
-## 🎯 2024 Goals
-
-- [ ] 🚀 Launch 3 major open-source projects
-- [ ] 📚 Master Kubernetes and microservices architecture  
-- [ ] 🤝 Contribute to 50+ open-source repositories
-- [ ] 📝 Write 24 technical blog posts
-- [ ] 🎤 Speak at 5 tech conferences
-- [ ] 🧠 Learn machine learning and AI development
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎮 When I'm Not Coding
-
-<div align="center">
-  
-🎵 **Music Production** | 🎮 **Gaming** | 📚 **Reading Sci-Fi** | 🏃 **Running** | ☕ **Coffee Enthusiast**
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![](https://komarev.com/ghpvc/?username=deep-khimani&color=blueviolet&style=for-the-badge)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### Thanks for visiting! 🚀 Let's build something amazing together!
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=deep-khimani&color=brightgreen)
