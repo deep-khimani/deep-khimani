@@ -550,11 +550,5 @@ Language models
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### 🚀 **[VISIT MY COMPLETE PORTFOLIO](https://deepkhimani.pythonanywhere.com/) FOR LIVE DEMOS & CASE STUDIES** 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=deep-khimani&color=blueviolet&style=for-the-badge)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deep-khimani&theme=radical)](https://github.com/deep-khimani)
-
-**⭐ If you find my work inspiring, consider starring the repositories! It helps me reach more innovators like you! ⭐**
 
 </div>
