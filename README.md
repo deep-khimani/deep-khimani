@@ -1,4 +1,4 @@
-# 🚀 Deep Khimani
+# Deep Khimani
 
 <div align="center">
 
@@ -6,13 +6,6 @@
 
 [![🔥 EXPLORE MY DIGITAL UNIVERSE - YOU WON'T BELIEVE WHAT'S INSIDE! 🔥](https://img.shields.io/badge/🚀_CLICK_HERE_TO_WITNESS_THE_MAGIC-FF0000?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF4500&color=FF6B35&size=large)](https://deepkhimani.pythonanywhere.com/)
 
-```ascii
-┌─────────────────────────────────────────────────────────────────┐
-│  🎯 WARNING: This portfolio contains MIND-BLOWING AI projects    │
-│  ⚡ Side effects may include: Inspiration, Wonder & Job offers   │
-│  🧠 Viewer discretion advised: May cause excessive curiosity     │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 [![PORTFOLIO PREVIEW](https://img.shields.io/badge/🌈_LIVE_DEMOS_INSIDE-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deepkhimani.pythonanywhere.com/)
 [![AI PROJECTS](https://img.shields.io/badge/🤖_AI_INNOVATIONS-00D4AA?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://deepkhimani.pythonanywhere.com/)
